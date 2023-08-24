@@ -1,3 +1,5 @@
+import ExpenseItem  from "./components/Expenseltem";
+
 function App() {
   /* const para = document.createElement('p');
   para.textContent = 'This is also visible'
@@ -5,7 +7,7 @@ function App() {
   return (
     <div>
       <h2>Let's get started!</h2>
-      <p>this is also visible!</p>
+      <ExpenseItem></ExpenseItem>
     </div>
   );
 }
