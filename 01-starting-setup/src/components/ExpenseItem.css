@@ -200,6 +200,16 @@ h3:after {
   font-size:0.8em
 }
 
+ 
+.a{
+  position:relative;  
+   width:fit-content;
+   height:15px;
+   display:inline-block;
+   vertical-align:middle;
+}
+
+
 .licon{
   position:relative;  
    width:23px;
