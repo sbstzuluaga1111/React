@@ -1,8 +1,8 @@
 import React from "react";
-import ExpenseItem  from "./components/Expenseltem";
-import Card from "./components/Card";
+import ExpenseItem  from "./components/Expenses/Expenseltem";
+import Card from "./components/UI/Card";
 
-function App() {
+const App = () => {
   /* const para = document.createElement('p');
   para.textContent = 'This is also visible'
   document.getElementById('root').append(para); */
